@@ -611,20 +611,6 @@ Remember:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Multiple Style Sheets ( link) 
 Concept:
 Use multiple <link> tags in HTML to include separate CSS files.
